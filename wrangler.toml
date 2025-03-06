@@ -1,5 +1,5 @@
 [site]
-bucket = "./build"
+bucket = "build"
 entry-point = "workers-site"
 
 [build]
