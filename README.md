@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Aplicación de Gráfico Reactivo con D3.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una aplicación de gráfico de puntos reactivo construido con React y D3.js. Permite a los usuarios añadir puntos haciendo clic en el gráfico o introduciendo coordenadas a través de un formulario.
+
+Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
