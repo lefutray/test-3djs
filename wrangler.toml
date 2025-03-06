@@ -1,7 +1,12 @@
+name = "test-3djs"
+main = "./worker/index.js"
+compatibility_date = "2023-01-01"
+
 [site]
-bucket = "build"
-entry-point = "workers-site"
+bucket = "./build"
 
 [build]
 command = "npm run build"
-upload.format = "service-worker"
+
+[build.upload]
+format = "service-worker"
